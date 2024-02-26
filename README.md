@@ -1,12 +1,10 @@
-![image](https://github.com/PlamediD/html-portfolio/assets/87151146/36ff227f-8552-48cd-a2a2-316900c6c001)# html-portfolio
+# html-portfolio
 HTML-portfolio inspired by The Complete 2024 Web Development Bootcamp on Udemy 
 
 The website is live at : https://plamedid.github.io/html-portfolio/
 Please visit and give me feedback!
 
-
-
-![logo](https://github.com/PlamediD/html-online-resume/assets/87151146/bf9757be-0761-4b3a-9086-7ea26e8fde03)
+![image](https://github.com/PlamediD/html-portfolio/assets/87151146/36ff227f-8552-48cd-a2a2-316900c6c001)
 
 
 
