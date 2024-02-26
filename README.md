@@ -1,8 +1,5 @@
-# html-portfolio
-HTML-portfolio inspired by The Complete 2024 Web Development Bootcamp on Udemy 
 
-The website is live at : https://plamedid.github.io/html-portfolio/
-Please visit and give me feedback!
+
 
 ![image](https://github.com/PlamediD/html-portfolio/assets/87151146/36ff227f-8552-48cd-a2a2-316900c6c001)
 
@@ -30,6 +27,9 @@ Please visit and give me feedback!
 
 ## About The Project
 Online Portfolio as part of The Complete 2024 Web Development Bootcamp, -Udemy
+
+The website is live at : https://plamedid.github.io/html-portfolio/
+Please visit and give me feedback!
 
 
 
