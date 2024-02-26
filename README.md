@@ -26,7 +26,6 @@ Please visit and give me feedback!
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Authors](#authors)
 
 ## About The Project
